@@ -1,3 +1,4 @@
 Nama: Yosuke
 Kelas: LE01
 Hobi: Coding
+Skill: Git dasar
